@@ -1,0 +1,7 @@
+git clone https://github.com/Santara/IEEE_DL_Workshop_2016.git
+
+cp /home/rs/asantra/IEEE_Workshop_DL/IEEE_DL_Workshop_2016/MLP/Data/* .
+
+cp -r /home/rs/asantra/IEEE_Workshop_DL/IEEE_DL_Workshop_2016/CNN/Code/cifar-10-batches-py .
+
+cp -r /home/rs/asantra/IEEE_Workshop_DL/IEEE_DL_Workshop_2016/RNN/Code/imdb.pkl .
